@@ -5,6 +5,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ## Table of contents
 
 - [Overview](#overview)
+  - [About](#About)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Built with](#built-with)
@@ -12,6 +13,9 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 
 ## Overview
+
+### About
+A simple project to practice HTML and CSS.
 
 ### Screenshot
 ![](./screenshot.png)
