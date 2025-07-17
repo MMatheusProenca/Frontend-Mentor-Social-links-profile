@@ -14,7 +14,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ## Overview
 
 ### Screenshot
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 - Live Site URL: ([Click Here](https://mmatheusproenca.github.io/Frontend-Mentor-Social-links-profile/Index.html))
